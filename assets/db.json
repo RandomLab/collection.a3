@@ -1,0 +1,58 @@
+[
+    {
+      "id":1,
+      "date": "25/05/2022",
+      "image":"806b540f-16fa-4189-adc4-0e4b794a1b21-Elmwood-ave-fire.jpg",
+      "caption": "Newark home deemed total loss after Monday fire",
+      "tags": ["fire", "fireplace"],
+      "url":"https://eu.newarkadvocate.com/story/news/local/2022/05/09/elmwood-ave-newark-ome-deemed-total-loss-after-monday-fire/9702813002/"
+    },
+    {
+      "id":2,
+      "date": "25/05/2022",
+      "image":"c6a14a4d-1357-4526-afb1-0db86078edce-Crooks_Fire_at_night_on_April_30_2022.jpg",
+      "caption": "Crooks Fire: Red flag warning in effect as containment remains at 96%",
+      "tags": ["fire", "fireplace"],
+      "url":"https://eu.azcentral.com/story/news/local/arizona-wildfires/2022/05/07/crooks-fire-containment-remains-96-over-9-400-acres-burned/9669828002/"
+    },
+    {
+      "id":3,
+      "date": "31/05/2022",
+      "image":"original-27168-1451211621-11.jpg",
+      "caption":"21 Pictures That Show The Devastation Caused By Severe Flooding In North Of England",
+      "tags": ["water", "flood"],
+      "url":"https://www.buzzfeed.com/richardhjames/pictures-that-show-the-devestation-caused-by-severe-flooding"
+    },
+    {
+      "id":4,
+      "date": "13/06/2022",
+      "image":"00008494.jpeg",
+      "caption":"A man uses a signboard to signal motorists driving through flooded streets following the heaviest rains to hit Beijing in six decades on July 21, 2012",
+      "tags": ["water", "flood", "china"],
+      "url":"https://avax.news/pictures/33940"
+    },
+    {
+      "id":5,
+      "date": "13/06/2022",
+      "image":"E62PKRXX0AcICPR.jpeg",
+      "caption":"Floods in China leave destruction in their wake",
+      "tags": ["water", "flood", "china"],
+      "url":"https://www.lanacion.com.ar/el-mundo/en-fotos-las-inundaciones-en-china-dejan-destruccion-a-su-paso-nid21072021/"
+    },
+    {
+      "id":6,
+      "date": "14/06/2022",
+      "image":"plastic-waste-afp_625x300_1528197376552.jpg",
+      "caption":"India Resolves On Banning Single-Use Plastics At UN",
+      "tags": ["plastic"],
+      "url":"https://www.ndtv.com/india-news/india-resolves-on-banning-single-use-plastics-at-un-2008616"
+    },
+    {
+      "id":7,
+      "date": "14/06/2022",
+      "image":"plastic_bales.jpg",
+      "caption":"US plastics film recycling remains on growth curve",
+      "tags": ["plastic"],
+      "url":"https://recyclinginternational.com/plastics/us-plastics-film-recycling-remains-on-growth-curve/2922/"
+    }
+  ]
