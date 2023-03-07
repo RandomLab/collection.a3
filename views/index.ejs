@@ -1,0 +1,22 @@
+<%- include('header') -%>
+
+<div class="container">
+
+    <% collection.forEach(function(item){ %>
+        <div class="item">
+            <date class="date"><%= item.date %></date>
+            <a href="<%= item.url %>">
+                <figure>
+                    <img src="/assets/img/<%=item.image%>">
+                    <figcaption><%= item.caption %></figcaption>
+                </figure>
+            </a>
+            <p><%= item.tags %></p>
+        </div>
+
+    <% }) %>
+
+</div>
+
+
+<%- include('footer') -%>
